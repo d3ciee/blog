@@ -1,6 +1,9 @@
 {
-    "name": "Pubnode blog starter kit",
+    "name": "d3ciee",
     "favicon": "assets/images/favicon.png",
+    "templates": {
+        "post": "templates/post"
+    },
     "pages": [
         "getting-started"
     ]
